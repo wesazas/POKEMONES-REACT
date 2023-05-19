@@ -1,11 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
 import Pokemon  from './componentes/Pokemon';
 
  function App() {
   return (
     <div className="App">
-    <h1>Pokemones Iniciales Región Kanto</h1>
+    
+    <h1>HOLA RICHARD</h1>
+
+
+    {/* <h1>Pokemones Iniciales Región Kanto</h1> */}
       <div className='contenedor-principal'>
         
         <Pokemon
